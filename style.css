@@ -15,7 +15,7 @@ en;
   height: 100vh;
   width: 100vw;
   background-size: contain;
-  background-color: #FFEB3B;
+  background-color: rgb(17, 122, 122);
 
 }
 .display-upper{
@@ -28,11 +28,11 @@ en;
   top:40vh;
   /* left:42vw; */
   text-align: center;
-  color: yellow;
+  color: rgb(17, 122, 122);
 }
 .display-upper button
 {
-  background-color: yellow;
+  background-color: rgb(17, 122, 122);
   font-size: 200%;
   font-weight: 600;
   border-radius: 2rem;
@@ -77,7 +77,7 @@ en;
   background-color: red;
 }
 .ball{
-  background-color: pink;
+  background-color: rgb(196, 15, 45);
   width:34px;
   height: 34px;
   border-radius: 50%;
@@ -139,12 +139,12 @@ en;
   border-radius: 2rem;
   padding: 0.2rem;
   box-shadow: 0px 0px 4px black;
-  color: #67728ad9;
+  color: #1b4296d9;
 }
 /*Lives score*/
 
 .lives{
-  color: #494958f2;
+  color: #151596f2;
 
 }
 .lives i{
